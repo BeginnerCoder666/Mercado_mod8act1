@@ -1,5 +1,5 @@
 var fullName = prompt("Please enter your full name:");
-var userName = prompt("Please emter  your username:");
+var userName = prompt("Please enter your username:");
 
 if (confirm("What is your gender? \n Press OK if you are Male \n Cancel if Female") == true) {
     alert("Your profile gender is set to MALE");
